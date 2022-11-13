@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmui_form=self.webpackChunkmui_form||[]).push([[2694],{82694:function(e){e.exports=JSON.parse('{"$schema":"http://json-schema.org/draft-07/schema#","type":"number","minimum":98.76}')}}]);
