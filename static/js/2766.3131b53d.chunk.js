@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmui_form=self.webpackChunkmui_form||[]).push([[2766],{52766:function(e){e.exports=JSON.parse('{"$schema":"http://json-schema.org/draft-07/schema","title":"JPEG","type":"string","format":"data-url","contentMediaType":"image/jpeg"}')}}]);
