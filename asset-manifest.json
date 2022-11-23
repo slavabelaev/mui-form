@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/mui-form/static/js/main.3746f71a.js",
+    "main.js": "/mui-form/static/js/main.32fec72c.js",
     "static/js/1813.f5b01663.chunk.js": "/mui-form/static/js/1813.f5b01663.chunk.js",
     "static/js/7380.1c9af8c2.chunk.js": "/mui-form/static/js/7380.1c9af8c2.chunk.js",
     "static/js/6586.eee60d54.chunk.js": "/mui-form/static/js/6586.eee60d54.chunk.js",
@@ -122,10 +122,10 @@
     "static/js/8287.94c16a42.chunk.js": "/mui-form/static/js/8287.94c16a42.chunk.js",
     "static/js/787.e4aae166.chunk.js": "/mui-form/static/js/787.e4aae166.chunk.js",
     "index.html": "/mui-form/index.html",
-    "main.3746f71a.js.map": "/mui-form/static/js/main.3746f71a.js.map",
+    "main.32fec72c.js.map": "/mui-form/static/js/main.32fec72c.js.map",
     "787.e4aae166.chunk.js.map": "/mui-form/static/js/787.e4aae166.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.3746f71a.js"
+    "static/js/main.32fec72c.js"
   ]
 }
