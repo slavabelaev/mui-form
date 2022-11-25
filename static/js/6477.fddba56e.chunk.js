@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmui_form=self.webpackChunkmui_form||[]).push([[6477],{6477:function(e){e.exports=JSON.parse('{"$schema":"http://json-schema.org/draft-07/schema","type":"string","enum":["Option 1","Option 2","Option 3"]}')}}]);
