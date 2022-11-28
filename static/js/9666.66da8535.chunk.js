@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmui_form=self.webpackChunkmui_form||[]).push([[9666],{89666:function(e){e.exports=JSON.parse('{"ui:widget":"color-field"}')}}]);

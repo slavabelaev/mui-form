@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmui_form=self.webpackChunkmui_form||[]).push([[8287],{8287:function(u){u.exports=JSON.parse('{"ui:widget":"upload"}')}}]);
